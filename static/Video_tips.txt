@@ -1,3 +1,0 @@
-Set-ExcecutionPolicy unrestricted == set the powershell environmnet in normalmode.
-
-
