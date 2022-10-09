@@ -1,0 +1,85 @@
+body,
+html {
+  /* background-color: rgb(255, 174, 0);  */
+  background-image: url("../img/bg1.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  height: 100%;
+  overflow-x: hidden;
+  font-family: "Dosis", sans-serif;
+}
+.table {
+  color: white;
+}
+.container {
+  color: rgb(10, 9, 22);
+}
+
+.btn {
+  border-radius: 0;
+}
+.btn:focus,
+.btn:active,
+.btn.active,
+.btn:active:focus {
+  outline: 0;
+  border-radius: 0;
+}
+
+.btn-larger {
+  padding: 15px 40px !important;
+  border: 2px solid #f7ca18 !important;
+  border-radius: 0px !important;
+  text-transform: uppercase;
+  font-family: "Dosis", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #f7ca18;
+  background-color: transparent;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  transition: all 0.6s;
+}
+.btn-larger:hover,
+.btn-larger:focus,
+.btn-larger:active,
+.btn-larger.active,
+.open .dropdown-toggle.btn-larger {
+  border-color: #f7ca18;
+  color: #fff;
+  background-color: #f7ca18;
+  border-radius: 0;
+}
+.btn-larger:active,
+.btn-larger.active,
+.open .dropdown-toggle.btn-larger {
+  background-image: none;
+}
+.btn-larger.disabled,
+.btn-larger[disabled],
+fieldset[disabled] .btn-larger,
+.btn-larger.disabled:hover,
+.btn-larger[disabled]:hover,
+fieldset[disabled] .btn-larger:hover,
+.btn-larger.disabled:focus,
+.btn-larger[disabled]:focus,
+fieldset[disabled] .btn-larger:focus,
+.btn-larger.disabled:active,
+.btn-larger[disabled]:active,
+fieldset[disabled] .btn-larger:active,
+.btn-larger.disabled.active,
+.btn-larger[disabled].active,
+fieldset[disabled] .btn-larger.active {
+  border-color: #aea8d3;
+  background-color: #aea8d3;
+}
+.btn-larger .badge {
+  color: #aea8d3;
+  background-color: #fff;
+}
+
+
+
+
+
