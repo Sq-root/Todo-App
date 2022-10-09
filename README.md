@@ -11,3 +11,10 @@ Simple Todo App for the User to schdule there task .
 - List of Tasks
 - List of Completed Tasks
 - List of Pending Tasks
+
+## Tech
+- HTML
+- CSS
+- Python
+- Flask
+- SQLLite
