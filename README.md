@@ -1,7 +1,7 @@
 # Todo-App
 Todo App Using Flask
 
-Simple Todo App for the User to schdule there task .
+Simple Todo App for the User to Schedule thier task .
 
 ## Features
 
