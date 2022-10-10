@@ -24,7 +24,7 @@ Simple Todo App for the User to Schedule thier task .
 
 #### Todo Home Page
 - Add new Task
-- List all the avaible Task
+- List all the available Task
 - Mark task as Completed by clicking on status button
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/34549801/194780922-a8ab1224-3c8c-48b0-bf9c-9b6b221510bd.png">
 
